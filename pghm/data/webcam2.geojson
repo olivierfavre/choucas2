@@ -1,0 +1,1237 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0591999999999997,45.100499999999997 ]
+    },
+    "properties": {
+    "id":2,
+    "geom":"01010000206A0800005BB1BFEC9E3C1840BE9F1A2FDD8C4640",
+    "station":"ALPE D'HUEZ ",
+    "site":"http://pv.viewsurf.com/528/Le-Signal",
+    "img":"\\N",
+    "nom":"Alpe d'Huez (2110 m) - Le Signal ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0815000000000001,45.102499999999999 ]
+    },
+    "properties": {
+    "id":6,
+    "geom":"01010000206A080000FA7E6ABC7453184085EB51B81E8D4640",
+    "station":"ALPE D'HUEZ ",
+    "site":"http://m.webcam-hd.com/freestylepark/freestylepark_alpe-dhuez",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_freestylepark_alpe-dhuez.jpg ",
+    "nom":"freestlyepark",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8617299999999997,45.022350000000003 ]
+    },
+    "properties": {
+    "id":7,
+    "geom":"01010000206A080000A6ED5F59697217406688635DDC824640",
+    "station":"ALPE DU GRAND SERRE ",
+    "site":"http://m.webcam-hd.com/alpe-du-grand-serre/village",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_alpe-du-grand-serre_centre-village.jpg ",
+    "nom":"CENTRE DU VILLAGE",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8501300000000001,45.012520000000002 ]
+    },
+    "properties": {
+    "id":8,
+    "geom":"01010000206A080000D8648D7A88661740E1455F419A814640",
+    "station":"ALPE DU GRAND SERRE ",
+    "site":"http://m.webcam-hd.com/alpe-du-grand-serre/serriou",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_alpe-du-grand-serre_sommet-serriou.jpg ",
+    "nom":"Alpe du Grand Serre - La Blache (1370 m) ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8462199999999998,45.02657 ]
+    },
+    "properties": {
+    "id":9,
+    "geom":"01010000206A0800006DE2E47E87621740018750A566834640",
+    "station":"ALPE DU GRAND SERRE ",
+    "site":"http://m.webcam-hd.com/alpe-du-grand-serre/les-cochettes",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_alpe-du-grand-serre_cochette.jpg ",
+    "nom":"LES COCHETTES",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5476000000000001,45.170699999999997 ]
+    },
+    "properties": {
+    "id":11,
+    "geom":"01010000206A0800008D28ED0DBE301640AEB6627FD9954640",
+    "station":"AUTRANS ",
+    "site":"http://m.webcam-hd.com/autrans/autrans_tremplin",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_autrans_tremplin.jpg ",
+    "nom":"Tremplins",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5602,45.217799999999997 ]
+    },
+    "properties": {
+    "id":12,
+    "geom":"01010000206A08000076E09C11A53D1640CE88D2DEE09B4640",
+    "station":"AUTRANS ",
+    "site":"http://m.webcam-hd.com/autrans/geve",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_geve.jpg ",
+    "nom":"GEVE",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5816999999999997,45.2301 ]
+    },
+    "properties": {
+    "id":13,
+    "geom":"01010000206A0800003255302AA9531640A167B3EA739D4640",
+    "station":"AUTRANS ",
+    "site":"http://m.webcam-hd.com/autrans/sure",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_sure.jpg ",
+    "nom":"SURE",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5429000000000004,45.175400000000003 ]
+    },
+    "properties": {
+    "id":14,
+    "geom":"01010000206A0800005DFE43FAED2B1640F5DBD78173964640",
+    "station":"AUTRANS ",
+    "site":"http://m.webcam-hd.com/autrans/autran-village",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_autran-village.jpg ",
+    "nom":"VILLAGE",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8770800000000003,45.109969999999997 ]
+    },
+    "properties": {
+    "id":15,
+    "geom":"01010000206A08000019E76F422182174043C5387F138E4640",
+    "station":"CHAMROUSSE",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://static.meteo-chamrousse.com/webcam/webcam-chamrousse.jpg",
+    "nom":"ROCHE BERANGER 1750 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8790699999999996,45.125729999999997 ]
+    },
+    "properties": {
+    "id":16,
+    "geom":"01010000206A080000319413ED2A8417402310AFEB17904640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://webcams2.chamrousse.com/Front_neige_1650000M.jpg",
+    "nom":"RECOIN 1650 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90238,45.125329999999998 ]
+    },
+    "properties": {
+    "id":17,
+    "geom":"01010000206A0800000742B280099C1740959A3DD00A904640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://webcams2.chamrousse.com/La_Croix_Chamrousse.jpg",
+    "nom":"LA CROIX 2250 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9024000000000001,45.125579999999999 ]
+    },
+    "properties": {
+    "id":18,
+    "geom":"01010000206A08000040A4DFBE0E9C17400E84640113904640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"\\N",
+    "nom":"POSTE DE SECOURS 2250 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8936000000000002,45.114750000000001 ]
+    },
+    "properties": {
+    "id":19,
+    "geom":"01010000206A08000089D2DEE00B931740A69BC420B08E4640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://webcams2.chamrousse.com/Sommet_Bachat000.jpg",
+    "nom":"BACHAT BOULOUD ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8773,45.109999999999999 ]
+    },
+    "properties": {
+    "id":20,
+    "geom":"01010000206A0800008A1F63EE5A821740AE47E17A148E4640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://webcams2.chamrousse.com/Front_Neige_1750000.jpg",
+    "nom":"Front Neige 1750",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8837299999999999,45.100619999999999 ]
+    },
+    "properties": {
+    "id":21,
+    "geom":"01010000206A080000F0F96184F088174069A9BC1DE18C4640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://webcams2.chamrousse.com/Front_Neige_1700.jpg",
+    "nom":"Front Neige 1700",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8760700000000003,45.098520000000001 ]
+    },
+    "properties": {
+    "id":22,
+    "geom":"01010000206A080000E2067C7E188117403F00A94D9C8C4640",
+    "station":"CHAMROUSSE ",
+    "site":"http://www.chamrousse.com/webcams.html",
+    "img":"http://webcams2.chamrousse.com/Plateau_Arselle_000.jpg",
+    "nom":"DOMAINE NORDIQUE 1600 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9680799999999996,45.007649999999998 ]
+    },
+    "properties": {
+    "id":23,
+    "geom":"01010000206A0800008FA50F5D50DF17403EE8D9ACFA804640",
+    "station":"COL D'ORNON",
+    "site":"http://www.col-dornon.com/webcams/",
+    "img":"http://www.ameller.org/chantelouve/webcams/fond/fond.jpeg",
+    "nom":"1371 m - Le dÃ©part des pistes de ski de fond du Col d'Ornon ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9709000000000003,45.017099999999999 ]
+    },
+    "properties": {
+    "id":24,
+    "geom":"01010000206A080000E0BE0E9C33E217407C61325530824640",
+    "station":"COL D'ORNON",
+    "site":"http://www.col-dornon.com/webcams/",
+    "img":"http://www.ameller.org/chantelouve/webcams/verte/verte.jpeg",
+    "nom":"1330 m - Le dÃ©part de la piste verte de ski alpin du Col d'Ornon ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5949999999999998,44.9895 ]
+    },
+    "properties": {
+    "id":25,
+    "geom":"01010000206A080000E17A14AE476116402DB29DEFA77E4640",
+    "station":"COL DE L'ARZELIER",
+    "site":"http://www.col-de-larzelier.fr/index.php/webcam",
+    "img":"\\N",
+    "nom":"col de l'Arzelier",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9184000000000001,45.3566 ]
+    },
+    "properties": {
+    "id":26,
+    "geom":"01010000206A080000EA95B20C71AC174076E09C11A5AD4640",
+    "station":"COL DE MARCIEU ESPACE LUDIQUE",
+    "site":"http://m.webcam-hd.com/col-de-marcieu/marcieu",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_coldemarcieu.jpg ",
+    "nom":"col de marcieu",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5258200000000004,45.02825 ]
+    },
+    "properties": {
+    "id":27,
+    "geom":"01010000206A080000B554DE8E701A1640560E2DB29D834640",
+    "station":"CORRENCON EN VERCORS ",
+    "site":"http://m.webcam-hd.com/correncon-en-vercors/villemomble",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_correncon_villemomble.jpg",
+    "nom":"LE VILLAGE",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5256499999999997,45.0276 ]
+    },
+    "properties": {
+    "id":28,
+    "geom":"01010000206A080000D1915CFE431A16404FAF946588834640",
+    "station":"CORRENCON EN VERCORS ",
+    "site":"http://m.webcam-hd.com/correncon-en-vercors/rambins",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_correncon_rambins.jpg",
+    "nom":"HAMEAU DES RAMBINS",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5298800000000004,45.019329999999997 ]
+    },
+    "properties": {
+    "id":29,
+    "geom":"01010000206A080000CA37DBDC981E164074EACA6779824640",
+    "station":"CORRENCON EN VERCORS ",
+    "site":"http://m.webcam-hd.com/correncon-en-vercors/plateau",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_correncon_plateau.jpg",
+    "nom":"LES HAUTS PLATEAUX",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5663,45.013199999999998 ]
+    },
+    "properties": {
+    "id":30,
+    "geom":"01010000206A08000032E6AE25E44316405227A089B0814640",
+    "station":"CORRENCON EN VERCORS ",
+    "site":"http://www.villarddelans.com/hiver/webcams.html",
+    "img":"http://www.espace-villard-correncon.fr/webcam/G2TMX.jpg",
+    "nom":"ArrivÃ©e telemix clos de Balme",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5427,45.011000000000003 ]
+    },
+    "properties": {
+    "id":31,
+    "geom":"01010000206A08000024287E8CB92B1640C520B07268814640",
+    "station":"CORRENCON EN VERCORS ",
+    "site":"http://www.villarddelans.com/hiver/webcams.html",
+    "img":"http://www.espace-villard-correncon.fr/webcam/Refuge_Crete.jpg",
+    "nom":"Vue du refuge des crÃªtes",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7481,45.179900000000004 ]
+    },
+    "properties": {
+    "id":32,
+    "geom":"01010000206A080000E78C28ED0DFE1640744694F606974640",
+    "station":"GRENOBLE",
+    "site":"\\N",
+    "img":"http://www.vision-environnement.com/webcams/Grenoble1/image/webcam.jpg",
+    "nom":"Grenoble (210 m) - Vue vers le NÃ©ron le vercors",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7232000000000003,45.172800000000002 ]
+    },
+    "properties": {
+    "id":33,
+    "geom":"01010000206A0800006ADE718A8EE41640D95F764F1E964640",
+    "station":"GRENOBLE",
+    "site":"\\N",
+    "img":"http://www.vision-environnement.com/webcams/Grenoble/image/webcam.jpg",
+    "nom":"Grenoble (210 m) - Vue vers Belledonne chamrousse taillefer",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5491000000000001,44.893099999999997 ]
+    },
+    "properties": {
+    "id":34,
+    "geom":"01010000206A08000035EF3845473216405F07CE1951724640",
+    "station":"GRESSE EN VERCORS",
+    "site":"http://m.webcam-hd.com/gresse-en-vercors/grand-veymont",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_gresse-en-vercors_maison-du-grand-veymont.jpg ",
+    "nom":"GRESSE 1250M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2927,44.932000000000002 ]
+    },
+    "properties": {
+    "id":35,
+    "geom":"01010000206A08000024287E8CB92B19409EEFA7C64B774640",
+    "station":"SAINT CHRISTOPHE",
+    "site":"http://m.webcam-hd.com/st-christophe-en-oisans/la-berarde",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_st-christophe-en-oisans_la-berarde.jpg ",
+    "nom":"La BÃ©rarde",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1763000000000003,44.957900000000002 ]
+    },
+    "properties": {
+    "id":36,
+    "geom":"01010000206A080000A323B9FC87B41840516B9A779C7A4640",
+    "station":"SAINT CHRISTOPHE",
+    "site":"http://m.webcam-hd.com/st-christophe-en-oisans/la-ville",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_st-christophe-en-oisans_la-ville.jpg ",
+    "nom":"La Ville",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7770000000000001,45.011699999999998 ]
+    },
+    "properties": {
+    "id":37,
+    "geom":"01010000206A080000CFF753E3A51B17407DAEB6627F814640",
+    "station":"LAFFREY",
+    "site":"http://cncholonge.fr/meteocam.html",
+    "img":"\\N",
+    "nom":"Lac de Laffrey (910 m) ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0774999999999997,45.089849999999998 ]
+    },
+    "properties": {
+    "id":1,
+    "geom":"01010000206A0800008FC2F5285C4F1840D6C56D34808B4640",
+    "station":"ALPE D'HUEZ ",
+    "site":"http://alpedhuez.roundshot.com/bergers/",
+    "img":"http://www.alpedhuez.com/uploads/_alpe/webcams/189_original.jpg",
+    "nom":"LES BERGERS 1800M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1204499999999999,45.11477 ]
+    },
+    "properties": {
+    "id":3,
+    "geom":"01010000206A0800007A36AB3E577B1840ED478AC8B08E4640",
+    "station":"ALPE D'HUEZ ",
+    "site":"http://alpedhuez.roundshot.com/3060/",
+    "img":"http://www.alpedhuez.com/uploads/_alpe/webcams/190_original.jpg",
+    "nom":"LES MARMOTTES 3060M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1273799999999996,45.124969999999998 ]
+    },
+    "properties": {
+    "id":5,
+    "geom":"01010000206A0800006DA818E76F821840957D5704FF8F4640",
+    "station":"ALPE D'HUEZ ",
+    "site":"http://alpedhuez.roundshot.com/pic-blanc/",
+    "img":"http://www.alpedhuez.com/uploads/_alpe/webcams/192_original.jpg",
+    "nom":"PIC BLANC 3300M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0859300000000003,45.066830000000003 ]
+    },
+    "properties": {
+    "id":10,
+    "geom":"01010000206A0800002BFBAE08FE5718402332ACE28D884640",
+    "station":"AURIS EN OISANS",
+    "site":"http://alpedhuez.roundshot.com/auris/",
+    "img":"http://www.alpedhuez.com/uploads/_alpe/webcams/191_original.jpg",
+    "nom":"AURIS EN OISANS 2176M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5812999999999997,45.131 ]
+    },
+    "properties": {
+    "id":38,
+    "geom":"01010000206A080000C1A8A44E4053164054E3A59BC4904640",
+    "station":"LANS EN VERCORS ",
+    "site":"http://www.lansenvercors.com/webcams-vercors-enneigement-ski.html",
+    "img":"http://webcam.lansenvercors.com/VillageLans.jpg",
+    "nom":"LE VILLAGE",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6097000000000001,45.115900000000003 ]
+    },
+    "properties": {
+    "id":39,
+    "geom":"01010000206A0800001C7C6132557016409FCDAACFD58E4640",
+    "station":"LANS EN VERCORS ",
+    "site":"http://m.webcam-hd.com/lans_en_vercors/montagne-de-lans",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_lans_stade.jpg ",
+    "nom":"MONTAGNES DE LANS",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5926,45.124099999999999 ]
+    },
+    "properties": {
+    "id":40,
+    "geom":"01010000206A0800003B70CE88D25E164080B74082E28F4640",
+    "station":"LANS EN VERCORS ",
+    "site":"http://m.webcam-hd.com/lans_en_vercors/espace",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_lans-en-vercors_espace-aigle.jpg ",
+    "nom":"Espace Aigle",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1283700000000003,45.39302 ]
+    },
+    "properties": {
+    "id":41,
+    "geom":"01010000206A0800006C26DF6C738318404356B77A4EB24640",
+    "station":"LE COLLET D'ALLEVARD",
+    "site":"http://www.lecollet.com/webcams.html",
+    "img":"http://webcams.lecollet.com/imageSC.jpg",
+    "nom":"SUPER COLLET 1650 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1177700000000002,45.395670000000003 ]
+    },
+    "properties": {
+    "id":42,
+    "geom":"01010000206A080000B8CCE9B29878184011018750A5B24640",
+    "station":"LE COLLET D'ALLEVARD ",
+    "site":"http://www.lecollet.com/webcams.html",
+    "img":"http://webcams.lecollet.com/image.jpg",
+    "nom":"CHAMOIS D'OR 1450 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7792000000000003,45.256 ]
+    },
+    "properties": {
+    "id":43,
+    "geom":"01010000206A0800003D2CD49AE61D174054E3A59BC4A04640",
+    "station":"LE SAPPEY EN CHARTREUSE",
+    "site":"http://www.sappey-tourisme.com/index.php/webcam",
+    "img":"http://www.sappey-tourisme.com/images/site/webcam/PX-3744_00626E539B29/snap/cam2.jpg",
+    "nom":"Vue sur le Sappey",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8573000000000004,45.217700000000001 ]
+    },
+    "properties": {
+    "id":44,
+    "geom":"01010000206A08000076711B0DE06D17406B2BF697DD9B4640",
+    "station":"LE VERSOUD",
+    "site":"http://www.meteosite.fr/",
+    "img":"http://www.meteosite.fr/vue-webcam.jpg",
+    "nom":"LE VERSOUD 220m",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1254,45.018799999999999 ]
+    },
+    "properties": {
+    "id":45,
+    "geom":"01010000206A08000071AC8BDB688018401895D40968824640",
+    "station":"LES 2 ALPES ",
+    "site":"http://www.vision-environnement.com/webcams/ImageHD/2alpes.php",
+    "img":"http://passion2alpes.com/webcam/image.jpg",
+    "nom":"vue sur Grande Aiguille",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1235999999999997,45.010199999999998 ]
+    },
+    "properties": {
+    "id":46,
+    "geom":"01010000206A080000742497FF907E1840A835CD3B4E814640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes-ot/2alpes-ot_village",
+    "img":"http://www.trinum.com/ibox/ftpcam/2alpes-ot_village.jpg",
+    "nom":"CENTRE STATION 1650 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1244800000000001,45.003970000000002 ]
+    },
+    "properties": {
+    "id":47,
+    "geom":"01010000206A0800003A0664AF777F18402315C61682804640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes-ot/le-diable",
+    "img":"http://www.trinum.com/ibox/ftpcam/2alpes-ot_le-diable.jpg",
+    "nom":"LE DIABLE 1650M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1271500000000003,45.010530000000003 ]
+    },
+    "properties": {
+    "id":48,
+    "geom":"01010000206A080000E0BE0E9C338218403ED00A0C59814640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes/2alpes_lutin",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_2alpes_lutin.jpg ",
+    "nom":"LES LUTINS 1650M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1075200000000001,45.01153 ]
+    },
+    "properties": {
+    "id":49,
+    "geom":"01010000206A080000E7A90EB9196E18402176A6D079814640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes/2alpes_valleeblanche",
+    "img":"http://www.trinum.com/ibox/ftpcam/2alpes_valleeblanche.jpg",
+    "nom":"Les 2 Alpes (2090 m) â€“ CrÃªte du Fioc ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1676000000000002,45.004669999999997 ]
+    },
+    "properties": {
+    "id":50,
+    "geom":"01010000206A080000083D9B559FAB1840DBA2CC0699804640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes/2alpes_lafee",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_2alpes_lafee.jpg ",
+    "nom":"LA FEE 2600 M ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1616299999999997,44.991770000000002 ]
+    },
+    "properties": {
+    "id":51,
+    "geom":"01010000206A080000BD35B05582A51840B493C151F27E4640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes/2alpes_bellecombe",
+    "img":"http://www.trinum.com/ibox/ftpcam/2alpes_bellecombe.jpg",
+    "nom":"BELLECOMBE 2700 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.20425,44.99727 ]
+    },
+    "properties": {
+    "id":52,
+    "geom":"01010000206A080000FED478E926D1184016A4198BA67F4640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes/2alpes_restaurant-les-glaciers",
+    "img":"http://www.trinum.com/ibox/ftpcam/vignette_2alpes_restaurant-les-glaciers.jpg",
+    "nom":"LE GLACIER 3200 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2221700000000002,44.997250000000001 ]
+    },
+    "properties": {
+    "id":53,
+    "geom":"01010000206A080000FA9B508880E31840CFF753E3A57F4640",
+    "station":"LES 2 ALPES ",
+    "site":"http://m.webcam-hd.com/2alpes/2alpes_glacier",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_2alpes_glacier.jpg ",
+    "nom":"LE GLACIER 3400 M",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0324200000000001,45.244619999999998 ]
+    },
+    "properties": {
+    "id":54,
+    "geom":"01010000206A080000FEF15EB53221184048F949B54F9F4640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.gsi38.fr/pout/pouta/002.jpg",
+    "nom":"VALLONS DU PRA  sommet du GypaÃ¨te",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0327000000000002,45.253500000000003 ]
+    },
+    "properties": {
+    "id":55,
+    "geom":"01010000206A0800001A51DA1B7C2118409CC420B072A04640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.les7laux.com/~webcam/webcam8.jpg",
+    "nom":"PLEYNET  sommet de l'OursiÃ¨re ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0556999999999999,45.272199999999998 ]
+    },
+    "properties": {
+    "id":56,
+    "geom":"01010000206A0800007E8CB96B0939184050FC1873D7A24640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.les7laux.com/~webcam/webcam4.jpg",
+    "nom":"PLEYNET  bas du domaine ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0304000000000002,45.257100000000001 ]
+    },
+    "properties": {
+    "id":57,
+    "geom":"01010000206A0800009031772D211F18409BE61DA7E8A04640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.les7laux.com/~webcam/webcam6.jpg",
+    "nom":"PIPAY  sommet du Grand Cerf ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.016,45.264800000000001 ]
+    },
+    "properties": {
+    "id":58,
+    "geom":"01010000206A080000AAF1D24D621018408BFD65F7E4A14640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.les7laux.com/~webcam/webcam5.jpg",
+    "nom":"PIPAY  bas du domaine ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0186999999999999,45.247199999999999 ]
+    },
+    "properties": {
+    "id":59,
+    "geom":"01010000206A080000A5BDC117261318401DC9E53FA49F4640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.les7laux.com/~webcam/webcam2.jpg",
+    "nom":"PRAPOUTEL  sommet des Chamois ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9950999999999999,45.256 ]
+    },
+    "properties": {
+    "id":60,
+    "geom":"01010000206A08000097FF907EFBFA174054E3A59BC4A04640",
+    "station":"LES 7 LAUX ",
+    "site":"http://www.les7laux.com/index.php/fr/menu-webcam.html",
+    "img":"http://www.les7laux.com/~webcam/webcam3.jpg",
+    "nom":"PRAPOUTEL  bas du domaine ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5279999999999996,45.130200000000002 ]
+    },
+    "properties": {
+    "id":61,
+    "geom":"01010000206A080000E9263108AC1C164038F8C264AA904640",
+    "station":"MEAUDRE",
+    "site":"http://m.webcam-hd.com/meaudre/piscine",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_meaudre_fond.jpg ",
+    "nom":"MEAUDRE Piscine",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5204000000000004,45.127299999999998 ]
+    },
+    "properties": {
+    "id":62,
+    "geom":"01010000206A080000865AD3BCE3141640F163CC5D4B904640",
+    "station":"MEAUDRE",
+    "site":"http://m.webcam-hd.com/meaudre/front-de-neige",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_meaudre_front.jpg",
+    "nom":"MEAUDRE front de neige",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8871000000000002,45.307299999999998 ]
+    },
+    "properties": {
+    "id":63,
+    "geom":"01010000206A0800005C2041F1638C1740C8073D9B55A74640",
+    "station":"ST HILAIRE DU TOUVET",
+    "site":"http://www.prevol.com/index.php/default/default/affichepage?sujet=webcam",
+    "img":"http://www.prevol.com/webcamupload/webcam_prevol.jpg",
+    "nom":"Prevol",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7546600000000003,45.179209999999998 ]
+    },
+    "properties": {
+    "id":64,
+    "geom":"01010000206A080000BF654E97C5041740DE8E705AF0964640",
+    "station":"ST MARTIN D'HERES",
+    "site":"http://www.m-ripoll.com:84/top.htm",
+    "img":"http://www.m-ripoll.com:84/image.jpg",
+    "nom":"Saint Martin d'HÃ¨res (220 m) - Vue vers le Vercors ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8451000000000004,45.345300000000002 ]
+    },
+    "properties": {
+    "id":65,
+    "geom":"01010000206A080000FE65F7E46161174087A757CA32AC4640",
+    "station":"ST PIERRE DE CHARTREUSE LE PLANOLET COMBE DE L'OURS",
+    "site":"http://m.webcam-hd.com/chartreuse/combe-ours",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_chartreuse_combe_ours.jpg ",
+    "nom":"Combe de l'Ours",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0746000000000002,45.150399999999998 ]
+    },
+    "properties": {
+    "id":66,
+    "geom":"01010000206A0800005C2041F1634C1840C1A8A44E40934640",
+    "station":"VAUJANY",
+    "site":"http://m.webcam-hd.com/vaujany/front-de-neige ",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_vaujany.jpg ",
+    "nom":"VAUJANY front de neige",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0940000000000003,45.1389 ]
+    },
+    "properties": {
+    "id":67,
+    "geom":"01010000206A080000C74B3789416018400BB5A679C7914640",
+    "station":"VAUJANY",
+    "site":"http://m.webcam-hd.com/vaujany/alpette",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_vaujany_alpette.jpg ",
+    "nom":"VAUJANY Alpette",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1055999999999999,45.127899999999997 ]
+    },
+    "properties": {
+    "id":68,
+    "geom":"01010000206A08000095D40968226C18404694F6065F904640",
+    "station":"VAUJANY",
+    "site":"http://m.webcam-hd.com/vaujany/sommet-2800",
+    "img":"http://www.trinum.com/ibox/ftpcam/mega_vaujany_sommet-2800.jpg ",
+    "nom":"VAUJANY Sommet 2800",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5227000000000004,45.059229999999999 ]
+    },
+    "properties": {
+    "id":69,
+    "geom":"01010000206A080000107A36AB3E171640967840D994874640",
+    "station":"VILLARD DE LANS ",
+    "site":"http://www.villarddelans.com/hiver/webcams.html",
+    "img":"http://webcam-esf.villarddelans.com/esf-bois-barbu.jpg",
+    "nom":"DOMAINE NORDIQUE DE BOIS BARBU",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5598700000000001,45.047249999999998 ]
+    },
+    "properties": {
+    "id":70,
+    "geom":"01010000206A080000CC0BB08F4E3D1640355EBA490C864640",
+    "station":"VILLARD DE LANS ",
+    "site":"http://www.villarddelans.com/hiver/webcams.html",
+    "img":"http://webcam-vercors.villarddelans.com/colline.jpg",
+    "nom":"LUGE ET SKI PARK DE LA COLLINE DES BAINS",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5718699999999997,45.039250000000003 ]
+    },
+    "properties": {
+    "id":71,
+    "geom":"01010000206A0800000B410E4A984916401B2FDD2406854640",
+    "station":"VILLARD DE LANS ",
+    "site":"http://www.neos360.com/villard_de_lans/pre_des_preys/",
+    "img":"http://www.neos360.com/villard_de_lans/pre_des_preys/img/panojavascript/nojava/pano_PV.jpg",
+    "nom":"TELECABINE PRE DE PREYS",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5698800000000004,45.03002 ]
+    },
+    "properties": {
+    "id":72,
+    "geom":"01010000206A080000F3936A9F8E471640EB1C03B2D7834640",
+    "station":"VILLARD DE LANS ",
+    "site":"http://www.villarddelans.com/hiver/webcams.html",
+    "img":"http://www.espace-villard-correncon.fr/webcam2/webcam_CAM2.jpg",
+    "nom":"VUE VERS VILLARD DE COTE 2000",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5514000000000001,45.0717 ]
+    },
+    "properties": {
+    "id":73,
+    "geom":"01010000206A080000BF0E9C33A2341640C58F31772D894640",
+    "station":"VILLARD DE LANS ",
+    "site":"http://www.villarddelans.com/hiver/webcams.html",
+    "img":"http://www.espace-villard-correncon.fr/webcam2/webcam_CAM1.jpg",
+    "nom":"VUE VERS COTE 2000",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.5709499999999998,45.022849999999998 ]
+    },
+    "properties": {
+    "id":74,
+    "geom":"01010000206A080000D49AE61DA7481640575BB1BFEC824640",
+    "station":"VILLARD DE LANS ",
+    "site":"http://www.neos360.com/villard_de_lans/grand_canyon/ ",
+    "img":"http://www.neos360.com/villard_de_lans/grand_canyon/img/panojavascript/nojava/pano_PV.jpg",
+    "nom":"ARRIVEE TELESIEGE GRAND CANYON",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3327999999999998,45.1721 ]
+    },
+    "properties": {
+    "id":75,
+    "geom":"01010000206A080000696FF085C954154020D26F5F07964640",
+    "station":"SAINT VERAN",
+    "site":"http://vue-sud-est.axiscam.net/view/index.shtml",
+    "img":"http://meteo-bernard.fr/images/vercors.JPG",
+    "nom":"VERCORS Direction Sud-Est",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.4454000000000002,45.017299999999999 ]
+    },
+    "properties": {
+    "id":76,
+    "geom":"01010000206A080000B98D06F016C81540431CEBE236824640",
+    "station":"SAINT MARTIN EN VERCORS",
+    "site":"http://www.laberthuniere.apiphoto.fr/index.php/webcam",
+    "img":"http://laberthuniere.free.fr/webcam/photo.jpg",
+    "nom":"SAINT MARTIN EN VERCORS",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6044999999999998,44.480899999999998 ]
+    },
+    "properties": {
+    "id":77,
+    "geom":"01010000206A0800005EBA490C026B1640BD5296218E3D4640",
+    "station":"VALDROME",
+    "site":"http://www.skiinfo.fr/alpes-du-nord/valdrome/station-de-ski.html",
+    "img":"http://www.trinum.com/ibox/valdrome/images/la-pyramide/la-pyramide_MEGA.jpg",
+    "nom":"Valdrome (1320 m) ",
+    "yaw":"\\N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.12723,45.119030000000002 ]
+    },
+    "properties": {
+    "id":4,
+    "geom":"01010000206A080000C347C49448821840179F02603C8F4640",
+    "station":"ALPE D'HUEZ ",
+    "site":"http://broadcast.viewsurf.com/4d23808d229b560bf857deda31cd5a48/capture/13848/playEmbed",
+    "img":"",
+    "nom":"SARENNE 3000M",
+    "yaw":"\\N"
+    }
+  }
+]
+}

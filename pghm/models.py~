@@ -1,0 +1,86 @@
+#from django.db import models
+
+# Create your models here.
+from __future__ import unicode_literals
+
+from django.contrib.gis.db import models
+
+
+class Webcam(models.Model):
+	geom = models.PointField(blank=True, null=True)
+	station = models.CharField(max_length=254, blank=True, null=True)
+	site = models.CharField(max_length=254, blank=True, null=True)
+	img = models.CharField(max_length=254, blank=True, null=True)
+	nom = models.CharField(max_length=254, blank=True, null=True)
+	lat = models.FloatField(blank=True, null=True)
+	lon = models.FloatField(blank=True, null=True)
+	yaw = models.IntegerField(blank=True, null=True)
+
+	def __str__(self):
+		return self.station + ': ' + self.nom
+		#return '{nom} {station}'.format(nom=self.nom, station=self.station)    
+
+	class Meta:
+		managed = False
+		db_table = 'webcam'
+
+# class Geoloc(models.Model):
+# 	datetime = models.DateTimeField(blank=True, null=True)
+# 	unite = models.CharField(max_length=256, blank=True, null=True)
+# 	precision = models.IntegerField(blank=True, null=True)
+# 	useragent = models.CharField(max_length=-256, blank=True, null=True)
+# 	geom = models.GeometryField(blank=True, null=True)
+# 	addr = models.GenericIPAddressField(blank=True, null=True)
+# 	orig = models.DecimalField(max_digits=6, decimal_places=0, blank=True, null=True)
+# 	tel = models.CharField(max_length=16, blank=True, null=True)
+# 	com = models.CharField(max_length=32, blank=True, null=True)
+# 	bp = models.CharField(max_length=32, blank=True, null=True)
+# 	cob = models.CharField(max_length=32, blank=True, null=True)
+
+# 	def __unicode__(self):
+# 		#return self.name
+# 		return '{useragent} {datetime}'.format(useragent=self.useragent, datetime=self.datetime)
+
+# 	class Meta:
+# 		managed = False
+# 		db_table = 'geoloc'
+
+# class Webcam(models.Model):
+# 	#geom = models.GeometryField(blank=True, null=True)
+# 	station = models.CharField(max_length=255, blank=True, null=True)
+# 	site = models.CharField(max_length=255, blank=True, null=True)
+# 	img = models.CharField(max_length=255, blank=True, null=True)
+# 	nom = models.CharField(max_length=255, blank=True, null=True)
+# 	lat = models.FloatField(blank=True, null=True)
+# 	lon = models.FloatField(blank=True, null=True)
+# 	yaw = models.IntegerField(blank=True, null=True)
+# 	geom = models.PointField('longitude/latitude', blank=True, null=True)
+
+# 	def __unicode__(self):
+# 		#return self.name
+# 		return '{nom} {station}'.format(nom=self.nom, station=self.station)
+
+	# class Meta:
+	# 	managed = False
+	# 	db_table = 'webcam'		
+
+# class Webcam(models.Model):
+# 	geom = models.GeometryField(blank=True, null=True)
+# 	station = models.CharField(max_length=128, blank=True, null=True)
+# 	site = models.CharField(max_length=256, blank=True, null=True)
+# 	img = models.CharField(max_length=256, blank=True, null=True)
+# 	nom = models.CharField(max_length=128, blank=True, null=True)
+# 	lat = models.FloatField(blank=True, null=True)
+# 	lon = models.FloatField(blank=True, null=True)
+# 	yaw = models.IntegerField(blank=True, null=True)
+	
+	#objects = models.GeoManager()	
+
+	# class Meta:
+	# 	managed = False
+	# 	db_table = 'webcam'
+
+	# def __str__(self):
+	# 	return '{nom} {station}'.format(nom=self.nom, station=self.station)
+	# def __str__(self):              # __unicode__ on Python 2
+	# 	return self.name	
